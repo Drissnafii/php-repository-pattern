@@ -194,12 +194,3 @@ No need to worry about *how* the data is fetched—just focus on what to do with
 
 - [Microsoft Docs: Repository Pattern](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/repository-pattern)  
 - [Martin Fowler’s Definition](https://martinfowler.com/eaaCatalog/repository.html)  
-
----
-
-🛠️ Happy coding! Let your repositories handle the heavy lifting while your controllers stay lean.
-```
-
----
-
-This README explains the **why** and **how** of the Repository Pattern, with **bad examples** to highlight the problems and **good examples** to show the solution. It’s perfect for showcasing your understanding of the pattern in your project or portfolio! 🚀
