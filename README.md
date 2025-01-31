@@ -1,8 +1,3 @@
-Got it! Here’s a **README.md** file that explains the **Repository Design Pattern** in general, why it’s useful, and provides **bad examples** (without the pattern) vs. **good examples** (with the pattern). You can use this to educate others or showcase your understanding of the pattern.
-
----
-
-```markdown
 # Repository Design Pattern: Why and How to Use It
 
 The **Repository Design Pattern** is a software design pattern that acts as a middle layer between your business logic and data access logic. It centralizes database operations, making your code cleaner, more maintainable, and easier to test.
