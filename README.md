@@ -189,6 +189,14 @@ No need to worry about *how* the data is fetched—just focus on what to do with
 - You want to write unit tests for your application.  
 
 ---
+---
+---
+---
+---
+---
+---
+---
+---
 
 Lorsque l'utilisateur clique sur le lien **"Profil"** dans la liste des utilisateurs, voici ce qui se passe étape par étape :
 
